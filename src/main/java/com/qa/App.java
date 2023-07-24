@@ -17,7 +17,7 @@ public class App
     }
 
     public static String sayHello(){
-        return "Hello World!";
+        return "Hell Mabs!";
     }
 
     public static String sayGoodbye(){
